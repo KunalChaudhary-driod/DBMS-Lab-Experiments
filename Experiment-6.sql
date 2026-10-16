@@ -1,9 +1,6 @@
 -- Experiment 6: Stored Procedures, Triggers, and Audit Logging
 -- Using the database created in Experiment 3
-
 USE EmployeeManagement;
-
-
 -- 1. Create Stored Procedure: transfer_employee
 -- Validates employee and department, transfers the employee,
 -- and rolls back the transaction if an SQL exception occurs.
