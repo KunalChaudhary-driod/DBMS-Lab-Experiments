@@ -1,6 +1,3 @@
--- Experiment 5: SQL Views, View Updatability, and Recursive CTE
--- Using the database created in Experiment 3
-
 USE EmployeeManagement;
 
 
