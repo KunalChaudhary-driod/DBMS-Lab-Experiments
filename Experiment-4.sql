@@ -1,6 +1,3 @@
--- Experiment 4: SQL Joins, Subqueries, EXISTS, INTERSECT, EXCEPT, and EXPLAIN
--- Using the database created in Experiment 3
-
 USE EmployeeManagement;
 
 
